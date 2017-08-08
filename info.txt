@@ -1,0 +1,61 @@
+
+Host Name:                 GURU-PC
+OS Name:                   Microsoft Windows 8.1 Pro
+OS Version:                6.3.9600 N/A Build 9600
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Gurucharan
+Registered Organization:   
+Product ID:                00261-50000-00000-AA792
+Original Install Date:     01-Dec-14, 10:25:43 PM
+System Boot Time:          04-Aug-17, 9:52:49 PM
+System Manufacturer:       Hewlett-Packard
+System Model:              Compaq 15 Notebook PC
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 69 Stepping 1 GenuineIntel ~800 Mhz
+BIOS Version:              Insyde F.31, 23-Oct-14
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     4,032 MB
+Available Physical Memory: 1,283 MB
+Virtual Memory: Max Size:  5,137 MB
+Virtual Memory: Available: 1,368 MB
+Virtual Memory: In Use:    3,769 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\GURU-PC
+Hotfix(s):                 7 Hotfix(s) Installed.
+                           [01]: KB2919355
+                           [02]: KB2919442
+                           [03]: KB2937220
+                           [04]: KB2938772
+                           [05]: KB2939471
+                           [06]: KB2949621
+                           [07]: KB3102467
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Ralink RT3290 802.11bgn Wi-Fi Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.2.1
+                                 IP address(es)
+                                 [01]: 192.168.2.10
+                                 [02]: fe80::19c8:7560:a2e9:a234
+                           [02]: Realtek PCIe FE Family Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::a90b:547:7350:a7d
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
